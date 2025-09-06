@@ -36,6 +36,12 @@ Resources on detecting unusual behaviors in sensor data.
 
 - **Frameworks**
 
+- **Hierarchical Temporal Memory (HTM)**
+  - [A Thousand Brains: A New Theory of Intelligence](https://dn790007.ca.archive.org/0/items/artificial-intelligence/2021_a_thousand_brains-a_new_theory_of_intelligence-Jeff%20Hawkins%20%282021%29.pdf)
+  - [HTM School](https://www.youtube.com/playlist?list=PL3yXMgtrZmDqhsFQzwUC9V8MeeVOQ7eZ9)
+  - [Real-Time Anomaly Detection for Streaming Analytics](https://arxiv.org/pdf/1607.02480)
+  - [Unsupervised real-time anomaly detection for streaming data](https://www.sciencedirect.com/science/article/pii/S0925231217309864)
+
 ---
 
 ### Remaining Useful Life (RUL)
