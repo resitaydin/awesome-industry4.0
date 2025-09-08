@@ -29,22 +29,27 @@ to help researchers and engineers build Predictive Maintenance systems.
 ## Predictive Maintenance
 
 ### Anomaly Detection
-Resources on detecting unusual behaviors in sensor data.
-
-- **Papers**
-  - [Merlion: A Machine Learning Library for Time Series](https://arxiv.org/abs/2109.09265) – End-to-end framework for anomaly detection & forecasting.
+Methods and resources on detecting unusual behaviors in sensor data.
 
 - **Frameworks**
+  - [Merlion](https://github.com/salesforce/Merlion) – End-to-end framework for anomaly detection & forecasting.
+  - [ADTK](https://github.com/arundo/adtk) – Rule-based anomaly detection toolkit for time series.  
 
 - **Hierarchical Temporal Memory (HTM)**
-  - [A Thousand Brains: A New Theory of Intelligence](https://dn790007.ca.archive.org/0/items/artificial-intelligence/2021_a_thousand_brains-a_new_theory_of_intelligence-Jeff%20Hawkins%20%282021%29.pdf)
-  - [HTM School](https://www.youtube.com/playlist?list=PL3yXMgtrZmDqhsFQzwUC9V8MeeVOQ7eZ9)
-  - [Subutai Ahmad - Numenta Articles](https://scholar.google.com/citations?hl=en&user=15vzrCoAAAAJ&view_op=list_works&sortby=pubdate)
-  - [Real-Time Anomaly Detection for Streaming Analytics](https://arxiv.org/pdf/1607.02480)
-  - [Unsupervised real-time anomaly detection for streaming data](https://www.sciencedirect.com/science/article/pii/S0925231217309864)
-  - [Hierarchical temporal memory (HTM) system deployed as web service](https://patents.google.com/patent/US10516763B2/en)
-  - [.NET Implementation - ddobric/neocortexapi](https://github.com/ddobric/neocortexapi)
-  
+  - Book:
+    - [A Thousand Brains: A New Theory of Intelligence](https://dn790007.ca.archive.org/0/items/artificial-intelligence/2021_a_thousand_brains-a_new_theory_of_intelligence-Jeff%20Hawkins%20%282021%29.pdf)
+    - [HTM School](https://www.youtube.com/playlist?list=PL3yXMgtrZmDqhsFQzwUC9V8MeeVOQ7eZ9)
+  - Papers:
+    - [Subutai Ahmad - Numenta Articles](https://scholar.google.com/citations?hl=en&user=15vzrCoAAAAJ&view_op=list_works&sortby=pubdate)
+    - [Real-Time Anomaly Detection for Streaming Analytics](https://arxiv.org/pdf/1607.02480)
+    - [Unsupervised real-time anomaly detection for streaming data](https://www.sciencedirect.com/science/article/pii/S0925231217309864)
+    - [Hierarchical temporal memory (HTM) system deployed as web service](https://patents.google.com/patent/US10516763B2/en)
+    - [HTM vs Other Methods](https://arxiv.org/pdf/1512.05463)
+  - Implementations:
+    - [.NET Implementation - ddobric/neocortexapi](https://github.com/ddobric/neocortexapi)
+    - [Python Implementation - numenta/nupic-legacy](https://github.com/numenta/nupic-legacy)
+      
+- **Benchmarks**
 
 ---
 
@@ -64,8 +69,6 @@ Resources on detecting unusual behaviors in sensor data.
 ---
 
 ## Frameworks & Tools
-- [Merlion](https://github.com/salesforce/Merlion) – Time series anomaly detection & forecasting.   
-- [ADTK](https://github.com/arundo/adtk) – Rule-based anomaly detection toolkit for time series.  
 - [River](https://github.com/online-ml/river) – Online/streaming ML.  
 
 ---
