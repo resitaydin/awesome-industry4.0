@@ -48,8 +48,10 @@ Methods and resources on detecting unusual behaviors in sensor data.
   - Implementations:
     - [.NET Implementation - ddobric/neocortexapi](https://github.com/ddobric/neocortexapi)
     - [Python Implementation - numenta/nupic-legacy](https://github.com/numenta/nupic-legacy)
+    - [Java Implementation - numenta/htm.java](https://github.com/numenta/htm.java)
       
 - **Benchmarks**
+- [Numenta Anomaly Benchmark for Real-Time Streaming AD Algorithms](https://github.com/numenta/NAB)
 
 ---
 
