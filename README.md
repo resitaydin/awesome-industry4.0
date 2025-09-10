@@ -67,6 +67,8 @@ Methods and resources on detecting unusual behaviors in sensor data.
 
 ## Datasets
 - [Awesome Industrial Datasets - jonathanwvd/awesome-industrial-datasets](https://github.com/jonathanwvd/awesome-industrial-datasets) – A curated collection of public industrial datasets.
+- [Industrial ML Datasets - nicolasj92/industrial-ml-datasets](https://github.com/nicolasj92/industrial-ml-datasets) – A collection of public industrial datasets for ML research.
+- [Awesome Industrial Machine Datasets](https://github.com/makinarocks/awesome-industrial-machine-datasets) – A list of awesome public datasets found in the industry.
 
 ---
 
