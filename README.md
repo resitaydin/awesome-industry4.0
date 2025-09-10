@@ -51,7 +51,7 @@ Methods and resources on detecting unusual behaviors in sensor data.
     - [Java Implementation - numenta/htm.java](https://github.com/numenta/htm.java)
       
 - **Benchmarks**
-- [Numenta Anomaly Benchmark for Real-Time Streaming AD Algorithms](https://github.com/numenta/NAB)
+  - [Numenta Anomaly Benchmark for Real-Time Streaming AD Algorithms](https://github.com/numenta/NAB)
 
 ---
 
@@ -66,7 +66,7 @@ Methods and resources on detecting unusual behaviors in sensor data.
 ---
 
 ## Datasets
-
+- [Awesome Industral Datasets](https://github.com/jonathanwvd/awesome-industrial-datasets) – A curated collection of public industrial datasets.
 
 ---
 
