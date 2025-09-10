@@ -66,7 +66,7 @@ Methods and resources on detecting unusual behaviors in sensor data.
 ---
 
 ## Datasets
-- [Awesome Industral Datasets](https://github.com/jonathanwvd/awesome-industrial-datasets) – A curated collection of public industrial datasets.
+- [Awesome Industrial Datasets - jonathanwvd/awesome-industrial-datasets](https://github.com/jonathanwvd/awesome-industrial-datasets) – A curated collection of public industrial datasets.
 
 ---
 
