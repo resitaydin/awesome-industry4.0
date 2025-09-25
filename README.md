@@ -33,7 +33,8 @@ Methods and resources on detecting unusual behaviors in sensor data.
 
 - **Frameworks**
   - [Merlion](https://github.com/salesforce/Merlion) – End-to-end framework for anomaly detection & forecasting.
-  - [ADTK](https://github.com/arundo/adtk) – Rule-based anomaly detection toolkit for time series.  
+  - [ADTK](https://github.com/arundo/adtk) – Rule-based anomaly detection toolkit for time series.
+  - [PyOD](https://github.com/yzhao062/pyod) – A Python Library for Outlier and Anomaly Detection.  
 
 - **Hierarchical Temporal Memory (HTM)**
   - Book:
@@ -52,6 +53,15 @@ Methods and resources on detecting unusual behaviors in sensor data.
       
 - **Benchmarks**
   - [Numenta Anomaly Benchmark for Real-Time Streaming AD Algorithms](https://github.com/numenta/NAB)
+
+- **Papers**
+  - [Edge AI for Real-Time Anomaly Detection in Smart Homes](https://www.mdpi.com/1999-5903/17/4/179/xml)
+
+---
+
+### Fault Diagnosis
+- **Papers**
+  - [Selecting the optimal supervised learning algorithm for fault diagnosis in PdM](https://www.aimsciences.org/article/doi/10.3934/jimo.2025111)
 
 ---
 
@@ -72,8 +82,9 @@ Methods and resources on detecting unusual behaviors in sensor data.
 
 ---
 
-## Frameworks & Tools
-- [River](https://github.com/online-ml/river) – Online/streaming ML.  
+## Frameworks & Tools  
+- [River](https://github.com/online-ml/river) – Online/streaming ML.
+- [MLFlow](https://github.com/mlflow/mlflow) – MLOps platform.
 
 ---
 
